@@ -1,1 +1,1 @@
-# ecommerce_market_place
+# etsy_market_place_clone
